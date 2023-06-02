@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*s2sSUmiJGjitCLgjZA8H4w.gif)
+[![MasterHead](http://gifimgs.com/img/0623/6479987f603a2975394146-gif/)
 
 <h1 align="center">Namaste... 👋, I'm Sailendu Kumar Dey</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast.</h3>
