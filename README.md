@@ -1,7 +1,8 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*s2sSUmiJGjitCLgjZA8H4w.gif)
 
-<h1 align="center">Hi 👋, I'm Sailendu Kumar Dey</h1>
+<h1 align="center">Namaste... 👋, I'm Sailendu Kumar Dey</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailendu-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sailendu-kumar" /> </p>
 
