@@ -1,4 +1,4 @@
-[![MasterHead](http://gifimgs.com/img/0623/6479987f603a2975394146-gif/)
+![MasterHead](https://www.ringcentral.com/us/en/blog/wp-content/uploads/2020/07/342907102-Three-applications-for-AI-tech-in-your-business-workflow-Social-GIF-1.gif)
 
 <h1 align="center">Namaste... 👋, I'm Sailendu Kumar Dey</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning enthusiast.</h3>
