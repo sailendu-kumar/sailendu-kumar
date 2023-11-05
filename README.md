@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, SQL**
 
-- 💬 Ask me about **Python(Numpy, Pandas)**
+- 💬 Ask me about **Python, SQL, Tableau, Power-BI, ML**
 
 - 📫 How to reach me **sailendu1989@gmail.com**
 
